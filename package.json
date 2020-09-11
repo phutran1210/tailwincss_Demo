@@ -10,6 +10,10 @@
   "scripts": {
     "build": "tailwindcss build src/styles.css -o public/styles.css"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phutran1210/tailwincss_Demo"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
